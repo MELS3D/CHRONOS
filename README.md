@@ -22,10 +22,10 @@ AS 3D Scanner Kinematics :
 The biggest advantage of chronos kinematics with a theta axis is that a physical model can be scanned perfectly from all sides and angles. Hence allowing a 3D printer to be a 3D scanner as well with a tool head swap.
 
 
-What is it?
+What is it? <br>
 It is a new 3D printer kinematics that takes a different approach for advanced 3d printing with 4 axes than traditional 3 axiz.
 
-What are the benefits?
+What are the benefits? <br>
 • 3 axis printers lack vertical strength,
 Meanwhile a 4 axes printer can compensate this issue to some extent, strengthening parts.
 • Time saving upto 30% faster than Core xy in theory.
