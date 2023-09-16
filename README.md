@@ -18,5 +18,10 @@ THETA AXIS
 <br>
 <br>
 
+AS 3D Scanner Kinematics :
+The biggest advantage of a ring kinematics with a theta axis is that a physical model can be scanned perfectly from all sides and angles perfectly. Hence allowing a 3D printer to be a 3D scanner as well
+
+
+
 ## More info at
 [Mels3D.com](https://www.mels3d.com)
