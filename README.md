@@ -24,6 +24,6 @@ The biggest advantage of chronos kinematics with a theta axis is that a physical
 
 
 ## More info at
-[Mels3D.com](https://www.mels3d.com)
+[Mels3D.com](https://www.mels3d.com) <br>
 [Mels3DLABS.com](https://www.mels3dlabs.com)
 
