@@ -5,8 +5,6 @@ CHRONOS USES INTERNAL RING GEAR FOR THE ARC AXIS MOVEMENTS OF X AND Y.
 PUBLISHING THE KINEMATICS AS A PROOF OF PRIOR ART SEARCH AND TO PRESERVE THE CRFEDIT OF THE KINEMATICS.
 
 ![Mels 3D LABS CHRONOS](https://github.com/MELS3D/CHRONOS/blob/main/CORE/CHRONOS.jpg)
-![Mels3D Pi Pro Zero](https://github.com/MELS3D/Pi-Pro/blob/main/Pi-Pro-Zero/Mels3D%20Pi%20Pro%20Zero.png)
-![Mels3D Pi Pro V1](https://github.com/MELS3D/Pi-Pro/blob/main/Pi-Pro-V1/Mels3D%20Pi%20Pro_V1.png)
 
 
 <br>
